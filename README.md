@@ -2,6 +2,17 @@ This is the project repo for the final project of the Udacity Self-Driving Car N
 
 Please use **one** of the two installation options, either native **or** docker installation.
 
+## Team
+---
+
+| Name        |Email          
+| ------------- |-------------| 
+| Rubén Fernández |   rubenfernandezbello@gmail.com |
+| Shanglin Yang      | kudoysl@gmail.com   |
+|Stephan Alaniz|     |     
+| Marcelo Nascimento| mzumbin@gmail.com|
+|Dennis Korotyaev |nemiroff.den@gmail.com|
+
 ### Native Installation
 
 * Be sure that your workstation is running Ubuntu 16.04 Xenial Xerus or Ubuntu 14.04 Trusty Tahir. [Ubuntu downloads can be found here](https://www.ubuntu.com/download/desktop).
